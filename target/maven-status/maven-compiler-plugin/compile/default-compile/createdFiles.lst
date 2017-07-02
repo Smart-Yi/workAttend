@@ -1,0 +1,9 @@
+com\program\user\service\IUserService.class
+com\program\register\controller\RegisterController.class
+com\program\user\service\UserServiceImpl.class
+com\program\common\interceptor\SessionInterceptor.class
+com\program\login\controller\LoginController.class
+com\program\user\controller\UserController.class
+com\program\common\utils\SecurityUtils.class
+com\program\user\dao\UserMapper.class
+com\program\user\entity\User.class
